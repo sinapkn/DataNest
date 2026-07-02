@@ -1,6 +1,0 @@
-# Project dependencies
-openpyxl>=3.1.0
-jdatetime>=4.1.0
-
-# tkinter is part of Python standard library
-# No need to install separately
