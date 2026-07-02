@@ -15,8 +15,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-یا مستقیم فایل `dist/app.exe` را اجرا کنید (نیاز به پایتون ندارد).
-
+یا مستقیم فایل `dist/app.exe` را اجرا کنید.
 ## منو
 - **Information → Add Information**: باز کردن پنجره مدیریت
 - **Language**: تغییر زبان (فارسی/English)
